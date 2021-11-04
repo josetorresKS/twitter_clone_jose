@@ -1,7 +1,7 @@
 # Twitter Clone
 This is my Twitter Clone Project
 Checkout [Live Deployment](https://twitterclone-jose.herokuapp.com/)
-![image](https://user-images.githubusercontent.com/91580447/140250608-49bc72ad-88e8-456c-a273-789a7da4fb1d.png)
+![image](https://user-images.githubusercontent.com/91580447/140250953-6cf128e4-8eeb-4bb3-a83d-b0ee1a49aa06.png)
 # Technologies Used
 * Html
 * CSS
