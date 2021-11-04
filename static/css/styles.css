@@ -226,8 +226,8 @@ justify-content: flex-end;
 margin-right: 9.5%;
 }
 .update-button {
-border-radius: 20px;
-background-color: rgb(87, 231, 20) !important;
+border-radius: 10px;
+background-color: #209BF0 !important;
 width: 80px;
 height: 35px;
 color: rgb(227, 240, 224);
@@ -235,10 +235,11 @@ font-weight: bold;
 border: none;
 cursor: pointer;
 font-size: 15px;
+margin-top: 20px;  
 }
 .cancel-button {
-border-radius: 20px;
-background-color: rgb(231, 20, 20) !important;
+border-radius: 10px;
+background-color: #209BF0 !important;
 width: 80px;
 height: 35px;
 color: rgb(227, 240, 224);
