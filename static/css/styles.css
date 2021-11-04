@@ -235,7 +235,11 @@ font-weight: bold;
 border: none;
 cursor: pointer;
 font-size: 15px;
+<<<<<<< HEAD
 margin-top: 20px;
+=======
+margin-top: 20px;  
+>>>>>>> 2adca2ceaac2b3804566f4a7167dddef0d31f74e
 }
 .cancel-button {
 border-radius: 10px;
